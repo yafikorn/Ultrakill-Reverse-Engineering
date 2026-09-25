@@ -1,0 +1,17 @@
+## Executables & Build Artifacts
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+
+## Temporary & Scan Files
+*.tmp
+*.scandata
+debug.txt
+
+## OS / IDE Files
+.vs/
+.vscode/
+Desktop.ini
+Thumbs.db
